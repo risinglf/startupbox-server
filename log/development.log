@@ -1,0 +1,2069 @@
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+DEPRECATION WARNING: ActionController::UnknownAction is deprecated! Use ::AbstractController::ActionNotFound instead. (called from /Users/bers/Documents/startupbox-server/script/rails:in `call':)
+DEPRECATION WARNING: ActionController::UnknownAction is deprecated! Use ::AbstractController::ActionNotFound instead. (called from /Users/bers/Documents/startupbox-server/script/rails:in `call':)
+DEPRECATION WARNING: ActionController::UnknownAction is deprecated! Use ::AbstractController::ActionNotFound instead. (called from /Users/bers/Documents/startupbox-server/script/rails:in `call':)
+
+
+Started GET "/" for 127.0.0.1 at 2013-04-20 16:12:44 +0200
+
+ActionController::RoutingError (No route matches [GET] "/"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  quiet_assets (1.0.2) lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-04-20 16:12:45 +0200
+
+ActionController::RoutingError (No route matches [GET] "/"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  quiet_assets (1.0.2) lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-04-20 16:13:16 +0200
+
+ActionController::RoutingError (No route matches [GET] "/"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  quiet_assets (1.0.2) lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.3ms)
+
+
+Started GET "/api/v1/users" for 127.0.0.1 at 2013-04-20 16:18:08 +0200
+Processing by Api::V1::UsersController#index as HTML
+Completed 500 Internal Server Error in 43ms
+
+ActionView::MissingTemplate - Missing template api/v1/users/index, application/index with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee, :haml]}. Searched in:
+  * "/Users/bers/Documents/startupbox-server/app/views"
+  * "/Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/devise-2.2.3/app/views"
+  * "/Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/twitter-bootstrap-rails-2.2.6/app/views"
+:
+  (gem) actionpack-3.2.12/lib/action_view/template/error.rb:46:in `initialize'
+  (gem) actionpack-3.2.12/lib/action_view/path_set.rb:58:in `find'
+  (gem) actionpack-3.2.12/lib/action_view/lookup_context.rb:109:in `find'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/abstract_renderer.rb:3:in `find_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:34:in `determine_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:10:in `render'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/renderer.rb:36:in `render_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/renderer.rb:17:in `render'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:110:in `_render_template'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:88:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:16:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+  (gem) activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+  (gem) activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:39:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:167:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:10:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:414:in `_run__79654523439707520__process_action__633103301536387400__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `block in call'
+  (gem) mongoid-3.0.17/lib/mongoid/unit_of_work.rb:39:in `unit_of_work'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:35:in `block in call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:34:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__616369548422147001__call__3608128259856615220__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:84:in `protected_app_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:79:in `better_errors_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+  (gem) quiet_assets-1.0.2/lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+  (gem) activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.5/lib/rack/lock.rb:15:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+  (gem) railties-3.2.12/lib/rails/engine.rb:479:in `call'
+  (gem) railties-3.2.12/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/70164447423160/variables" for 127.0.0.1 at 2013-04-20 16:18:08 +0200
+
+
+Started GET "/api/v1/users" for 127.0.0.1 at 2013-04-20 16:18:26 +0200
+Processing by Api::V1::UsersController#index as HTML
+Completed 500 Internal Server Error in 3ms
+
+ActionView::MissingTemplate - Missing template api/v1/users/index, application/index with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee, :haml]}. Searched in:
+  * "/Users/bers/Documents/startupbox-server/app/views"
+  * "/Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/devise-2.2.3/app/views"
+  * "/Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/twitter-bootstrap-rails-2.2.6/app/views"
+:
+  (gem) actionpack-3.2.12/lib/action_view/template/error.rb:46:in `initialize'
+  (gem) actionpack-3.2.12/lib/action_view/path_set.rb:58:in `find'
+  (gem) actionpack-3.2.12/lib/action_view/lookup_context.rb:109:in `find'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/abstract_renderer.rb:3:in `find_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:34:in `determine_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:10:in `render'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/renderer.rb:36:in `render_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/renderer.rb:17:in `render'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:110:in `_render_template'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:88:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:16:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+  (gem) activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+  (gem) activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:39:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:167:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:10:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:414:in `_run__79654523439707520__process_action__633103301536387400__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `block in call'
+  (gem) mongoid-3.0.17/lib/mongoid/unit_of_work.rb:39:in `unit_of_work'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:35:in `block in call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:34:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__616369548422147001__call__3608128259856615220__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:84:in `protected_app_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:79:in `better_errors_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+  (gem) quiet_assets-1.0.2/lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+  (gem) activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.5/lib/rack/lock.rb:15:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+  (gem) railties-3.2.12/lib/rails/engine.rb:479:in `call'
+  (gem) railties-3.2.12/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/70164460858620/variables" for 127.0.0.1 at 2013-04-20 16:18:26 +0200
+
+
+Started GET "/api/v1/users" for 127.0.0.1 at 2013-04-20 16:18:28 +0200
+Processing by Api::V1::UsersController#index as HTML
+Completed 500 Internal Server Error in 2ms
+
+ActionView::MissingTemplate - Missing template api/v1/users/index, application/index with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee, :haml]}. Searched in:
+  * "/Users/bers/Documents/startupbox-server/app/views"
+  * "/Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/devise-2.2.3/app/views"
+  * "/Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/twitter-bootstrap-rails-2.2.6/app/views"
+:
+  (gem) actionpack-3.2.12/lib/action_view/template/error.rb:46:in `initialize'
+  (gem) actionpack-3.2.12/lib/action_view/path_set.rb:58:in `find'
+  (gem) actionpack-3.2.12/lib/action_view/lookup_context.rb:109:in `find'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/abstract_renderer.rb:3:in `find_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:34:in `determine_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:10:in `render'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/renderer.rb:36:in `render_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/renderer.rb:17:in `render'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:110:in `_render_template'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:88:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:16:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+  (gem) activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+  (gem) activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:39:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:167:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:10:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:414:in `_run__79654523439707520__process_action__633103301536387400__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `block in call'
+  (gem) mongoid-3.0.17/lib/mongoid/unit_of_work.rb:39:in `unit_of_work'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:35:in `block in call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:34:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__616369548422147001__call__3608128259856615220__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:84:in `protected_app_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:79:in `better_errors_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+  (gem) quiet_assets-1.0.2/lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+  (gem) activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.5/lib/rack/lock.rb:15:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+  (gem) railties-3.2.12/lib/rails/engine.rb:479:in `call'
+  (gem) railties-3.2.12/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/70164462356760/variables" for 127.0.0.1 at 2013-04-20 16:18:28 +0200
+
+
+Started GET "/api/v1/users" for 127.0.0.1 at 2013-04-20 16:20:57 +0200
+Processing by Api::V1::UsersController#index as HTML
+Completed 500 Internal Server Error in 3ms
+
+ActionView::MissingTemplate - Missing template api/v1/users/index, application/index with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee, :haml]}. Searched in:
+  * "/Users/bers/Documents/startupbox-server/app/views"
+  * "/Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/devise-2.2.3/app/views"
+  * "/Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/twitter-bootstrap-rails-2.2.6/app/views"
+:
+  (gem) actionpack-3.2.12/lib/action_view/template/error.rb:46:in `initialize'
+  (gem) actionpack-3.2.12/lib/action_view/path_set.rb:58:in `find'
+  (gem) actionpack-3.2.12/lib/action_view/lookup_context.rb:109:in `find'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/abstract_renderer.rb:3:in `find_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:34:in `determine_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:10:in `render'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/renderer.rb:36:in `render_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/renderer.rb:17:in `render'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:110:in `_render_template'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:88:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:16:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+  (gem) activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+  (gem) activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:39:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:167:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:10:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:414:in `_run__79654523439707520__process_action__633103301536387400__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `block in call'
+  (gem) mongoid-3.0.17/lib/mongoid/unit_of_work.rb:39:in `unit_of_work'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:35:in `block in call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:34:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__616369548422147001__call__3608128259856615220__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:84:in `protected_app_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:79:in `better_errors_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+  (gem) quiet_assets-1.0.2/lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+  (gem) activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.5/lib/rack/lock.rb:15:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+  (gem) railties-3.2.12/lib/rails/engine.rb:479:in `call'
+  (gem) railties-3.2.12/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/70164492777420/variables" for 127.0.0.1 at 2013-04-20 16:20:57 +0200
+
+
+Started GET "/api/v1/users" for 127.0.0.1 at 2013-04-20 16:22:21 +0200
+Processing by Api::V1::UsersController#index as HTML
+Completed 500 Internal Server Error in 3ms
+
+ActionView::MissingTemplate - Missing template api/v1/users/index, application/index with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee, :haml]}. Searched in:
+  * "/Users/bers/Documents/startupbox-server/app/views"
+  * "/Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/devise-2.2.3/app/views"
+  * "/Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/twitter-bootstrap-rails-2.2.6/app/views"
+:
+  (gem) actionpack-3.2.12/lib/action_view/template/error.rb:46:in `initialize'
+  (gem) actionpack-3.2.12/lib/action_view/path_set.rb:58:in `find'
+  (gem) actionpack-3.2.12/lib/action_view/lookup_context.rb:109:in `find'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/abstract_renderer.rb:3:in `find_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:34:in `determine_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:10:in `render'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/renderer.rb:36:in `render_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/renderer.rb:17:in `render'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:110:in `_render_template'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:88:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:16:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+  (gem) activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+  (gem) activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:39:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:167:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:10:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:414:in `_run__79654523439707520__process_action__633103301536387400__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `block in call'
+  (gem) mongoid-3.0.17/lib/mongoid/unit_of_work.rb:39:in `unit_of_work'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:35:in `block in call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:34:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__616369548422147001__call__3608128259856615220__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:84:in `protected_app_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:79:in `better_errors_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+  (gem) quiet_assets-1.0.2/lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+  (gem) activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.5/lib/rack/lock.rb:15:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+  (gem) railties-3.2.12/lib/rails/engine.rb:479:in `call'
+  (gem) railties-3.2.12/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/70164492118200/variables" for 127.0.0.1 at 2013-04-20 16:22:21 +0200
+
+
+Started GET "/api/v1/events/check" for 127.0.0.1 at 2013-04-20 16:23:15 +0200
+Processing by Api::V1::EventsController#show as HTML
+  Parameters: {"id"=>"check"}
+Completed 500 Internal Server Error in 3ms
+
+ActionView::MissingTemplate - Missing template api/v1/events/show, application/show with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee, :haml]}. Searched in:
+  * "/Users/bers/Documents/startupbox-server/app/views"
+  * "/Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/devise-2.2.3/app/views"
+  * "/Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/twitter-bootstrap-rails-2.2.6/app/views"
+:
+  (gem) actionpack-3.2.12/lib/action_view/template/error.rb:46:in `initialize'
+  (gem) actionpack-3.2.12/lib/action_view/path_set.rb:58:in `find'
+  (gem) actionpack-3.2.12/lib/action_view/lookup_context.rb:109:in `find'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/abstract_renderer.rb:3:in `find_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:34:in `determine_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:10:in `render'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/renderer.rb:36:in `render_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/renderer.rb:17:in `render'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:110:in `_render_template'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:88:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:16:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+  (gem) activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+  (gem) activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:39:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:167:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:10:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:414:in `_run__663740801474979340__process_action__4283407723906978276__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `block in call'
+  (gem) mongoid-3.0.17/lib/mongoid/unit_of_work.rb:39:in `unit_of_work'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:35:in `block in call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:34:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__616369548422147001__call__3608128259856615220__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:84:in `protected_app_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:79:in `better_errors_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+  (gem) quiet_assets-1.0.2/lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+  (gem) activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.5/lib/rack/lock.rb:15:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+  (gem) railties-3.2.12/lib/rails/engine.rb:479:in `call'
+  (gem) railties-3.2.12/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/70164499802160/variables" for 127.0.0.1 at 2013-04-20 16:23:15 +0200
+
+
+Started GET "/api/v1/events/check" for 127.0.0.1 at 2013-04-20 16:23:26 +0200
+Processing by Api::V1::EventsController#show as HTML
+  Parameters: {"id"=>"check"}
+Completed 500 Internal Server Error in 3ms
+
+ActionView::MissingTemplate - Missing template api/v1/events/show, application/show with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee, :haml]}. Searched in:
+  * "/Users/bers/Documents/startupbox-server/app/views"
+  * "/Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/devise-2.2.3/app/views"
+  * "/Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/twitter-bootstrap-rails-2.2.6/app/views"
+:
+  (gem) actionpack-3.2.12/lib/action_view/template/error.rb:46:in `initialize'
+  (gem) actionpack-3.2.12/lib/action_view/path_set.rb:58:in `find'
+  (gem) actionpack-3.2.12/lib/action_view/lookup_context.rb:109:in `find'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/abstract_renderer.rb:3:in `find_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:34:in `determine_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:10:in `render'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/renderer.rb:36:in `render_template'
+  (gem) actionpack-3.2.12/lib/action_view/renderer/renderer.rb:17:in `render'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:110:in `_render_template'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:88:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:16:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+  (gem) activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+  (gem) activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:39:in `render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:167:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:10:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:414:in `_run__663740801474979340__process_action__4283407723906978276__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `block in call'
+  (gem) mongoid-3.0.17/lib/mongoid/unit_of_work.rb:39:in `unit_of_work'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:35:in `block in call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:34:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__616369548422147001__call__3608128259856615220__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:84:in `protected_app_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:79:in `better_errors_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+  (gem) quiet_assets-1.0.2/lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+  (gem) activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.5/lib/rack/lock.rb:15:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+  (gem) railties-3.2.12/lib/rails/engine.rb:479:in `call'
+  (gem) railties-3.2.12/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/70164463845000/variables" for 127.0.0.1 at 2013-04-20 16:23:27 +0200
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.7241ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=users documents=[{"_id"=>"5172e59dbb9ab450d0000001"}] flags=[] (0.0751ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.6490ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=users selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (31.3849ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (29.4409ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=users selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.3052ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=users selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.6819ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.4740ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.6149ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"5172f755bb9ab437bc000003", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}] flags=[] (0.1428ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=goals documents=[{"_id"=>"5172fb10bb9ab437bc000004"}] flags=[] (0.1290ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=goals documents=[{"_id"=>"5172fb2ebb9ab437bc000005"}] flags=[] (0.1302ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=sb_accounts documents=[{"_id"=>"5172f5b0bb9ab437bc000002", "user_id"=>"5172e59dbb9ab450d0000001"}] flags=[] (0.1168ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5991ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=goals documents=[{"_id"=>"5172fd6cbb9ab437bc000006"}] flags=[] (0.1349ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"$query"=>{"_id"=>"5172f5b0bb9ab437bc000002"}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.4539ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$set"=>{"sb_account_id"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.1371ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (45.6951ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=actions documents=[{"_id"=>"5172fe7ebb9ab437bc000007"}] flags=[] (0.2177ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$query"=>{"_id"=>"5172fd6cbb9ab437bc000006"}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.6211ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=actions selector={"_id"=>"5172fe7ebb9ab437bc000007"} update={"$set"=>{"goal_id"=>"5172fd6cbb9ab437bc000006"}} flags=[] (0.1690ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=actions selector={"goal_id"=>"5172fd6cbb9ab437bc000006"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.5147ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.4449ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"5172ffb8bb9ab437bc000008"}] flags=[] (0.1328ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"51730009bb9ab437bc00000a"}] flags=[] (0.1233ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"51730059bb9ab437bc00000b"}] flags=[] (0.0901ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4590ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=startupbox-server command={:count=>"devices", :query=>{}} (0.5729ms)
+  MOPED: 127.0.0.1:27017 DELETE       database=startupbox-server collection=devices selector={} flags=[] (0.1051ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3891ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>nil} flags=[] limit=1 skip=0 fields={:_id=>1} (0.6411ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"517300e2bb9ab437bc00000c"}] flags=[] (0.1500ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.4971ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.4780ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>"ciao", "_id"=>{"$ne"=>"517300e2bb9ab437bc00000c"}} flags=[] limit=1 skip=0 fields={:_id=>1} (319.1350ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=devices selector={"_id"=>"517300e2bb9ab437bc00000c"} update={"$set"=>{"secret_key"=>"ciao"}} flags=[] (0.1872ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.5200ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=devices selector={"_id"=>"517300e2bb9ab437bc00000c"} update={"$set"=>{"sb_account_id"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.1249ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.4978ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.4637ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3278ms)
+
+
+Started GET "/api/v1/sb_account/5172f5b0bb9ab437bc000002/goal/?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:05:08 +0200
+
+ActionController::RoutingError (No route matches [GET] "/api/v1/sb_account/5172f5b0bb9ab437bc000002/goal"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  quiet_assets (1.0.2) lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.5ms)
+
+
+Started GET "/api/v1/sb_account/5172f5b0bb9ab437bc000002/goal/index/?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:05:30 +0200
+
+ActionController::RoutingError (No route matches [GET] "/api/v1/sb_account/5172f5b0bb9ab437bc000002/goal/index"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  quiet_assets (1.0.2) lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/api/v1/sb_account/5172f5b0bb9ab437bc000002/goal/index/?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:06:32 +0200
+
+ActionController::RoutingError (No route matches [GET] "/api/v1/sb_account/5172f5b0bb9ab437bc000002/goal/index"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  quiet_assets (1.0.2) lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:07:30 +0200
+
+ActionController::RoutingError (No route matches [GET] "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  quiet_assets (1.0.2) lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:07:50 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+Completed 500 Internal Server Error in 0ms
+
+NoMethodError - undefined method `goals' for nil:NilClass:
+  app/controllers/api/v1/goals_controller.rb:53:in `find_goal'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:418:in `_run__4385919975073065123__process_action__3826822957074786922__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `block in call'
+  (gem) mongoid-3.0.17/lib/mongoid/unit_of_work.rb:39:in `unit_of_work'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:35:in `block in call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:34:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__1154833063671156708__call__2395364553312222473__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:84:in `protected_app_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:79:in `better_errors_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+  (gem) quiet_assets-1.0.2/lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+  (gem) activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.5/lib/rack/lock.rb:15:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+  (gem) railties-3.2.12/lib/rails/engine.rb:479:in `call'
+  (gem) railties-3.2.12/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/70349252770020/variables" for 127.0.0.1 at 2013-04-20 23:07:50 +0200
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:08:30 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (29.9170ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2861ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3662ms)
+Completed 500 Internal Server Error in 45ms
+
+NoMethodError - undefined method `sent_to' for #<Array:0x007ff6ebe44cd0>:
+  (gem) mongoid-3.0.17/lib/mongoid/criteria.rb:694:in `method_missing'
+  (gem) mongoid-3.0.17/lib/mongoid/relations/referenced/many.rb:398:in `block in method_missing'
+  (gem) mongoid-3.0.17/lib/mongoid/scoping.rb:190:in `with_scope'
+  (gem) mongoid-3.0.17/lib/mongoid/relations/referenced/many.rb:397:in `method_missing'
+  app/controllers/api/v1/goals_controller.rb:18:in `index'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:167:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:10:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:414:in `_run__4385919975073065123__process_action__3826822957074786922__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `block in call'
+  (gem) mongoid-3.0.17/lib/mongoid/unit_of_work.rb:39:in `unit_of_work'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:35:in `block in call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:34:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__1154833063671156708__call__2395364553312222473__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:84:in `protected_app_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:79:in `better_errors_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+  (gem) quiet_assets-1.0.2/lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+  (gem) activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.5/lib/rack/lock.rb:15:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+  (gem) railties-3.2.12/lib/rails/engine.rb:479:in `call'
+  (gem) railties-3.2.12/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/70349269892880/variables" for 127.0.0.1 at 2013-04-20 23:08:30 +0200
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4327ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.3021ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2620ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:10:06 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5560ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1569ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3328ms)
+Completed 500 Internal Server Error in 44ms
+
+NoMethodError - undefined method `<<' for nil:NilClass:
+  app/controllers/api/v1/goals_controller.rb:19:in `block in index'
+  (gem) mongoid-3.0.17/lib/mongoid/relations/referenced/many.rb:167:in `block in each'
+  (gem) mongoid-3.0.17/lib/mongoid/relations/targets/enumerable.rb:169:in `block in each'
+  (gem) mongoid-3.0.17/lib/mongoid/contextual/mongo.rb:575:in `yield_document'
+  (gem) mongoid-3.0.17/lib/mongoid/contextual/mongo.rb:133:in `block (2 levels) in each'
+  (gem) moped-1.3.0/lib/moped/query.rb:78:in `block in each'
+  (gem) moped-1.3.0/lib/moped/cursor.rb:26:in `block in each'
+  (gem) moped-1.3.0/lib/moped/cursor.rb:26:in `each'
+  (gem) moped-1.3.0/lib/moped/query.rb:77:in `each'
+  (gem) mongoid-3.0.17/lib/mongoid/contextual/mongo.rb:132:in `block in each'
+  (gem) mongoid-3.0.17/lib/mongoid/contextual/mongo.rb:554:in `selecting'
+  (gem) mongoid-3.0.17/lib/mongoid/contextual/mongo.rb:131:in `each'
+  (gem) mongoid-3.0.17/lib/mongoid/contextual.rb:18:in `each'
+  (gem) mongoid-3.0.17/lib/mongoid/relations/targets/enumerable.rb:166:in `each'
+  (gem) mongoid-3.0.17/lib/mongoid/relations/referenced/many.rb:167:in `each'
+  app/controllers/api/v1/goals_controller.rb:18:in `index'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:167:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:10:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:414:in `_run__4385919975073065123__process_action__3826822957074786922__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `block in call'
+  (gem) mongoid-3.0.17/lib/mongoid/unit_of_work.rb:39:in `unit_of_work'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:35:in `block in call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:34:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__1154833063671156708__call__2395364553312222473__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:84:in `protected_app_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:79:in `better_errors_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+  (gem) quiet_assets-1.0.2/lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+  (gem) activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.5/lib/rack/lock.rb:15:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+  (gem) railties-3.2.12/lib/rails/engine.rb:479:in `call'
+  (gem) railties-3.2.12/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/70349269298860/variables" for 127.0.0.1 at 2013-04-20 23:10:06 +0200
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4060ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4179ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.6840ms)
+  MOPED: 127.0.0.1:27017 DELETE       database=startupbox-server collection=goals selector={"_id"=>"5172fb10bb9ab437bc000004"} flags=[:remove_first] (0.1662ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.5057ms)
+  MOPED: 127.0.0.1:27017 DELETE       database=startupbox-server collection=goals selector={"_id"=>"5172fb2ebb9ab437bc000005"} flags=[:remove_first] (0.2110ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.7770ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$set"=>{"sent_to"=>[]}} flags=[] (0.1261ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:11:56 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5529ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1988ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3309ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$set"=>{"sent_to"=>["5172f5b0bb9ab437bc000002"]}} flags=[] (0.1531ms)
+Completed 200 OK in 25ms (Views: 0.4ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:12:05 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3910ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3211ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$set"=>{"sent_to"=>["5172f5b0bb9ab437bc000002", "5172f5b0bb9ab437bc000002"]}} flags=[] (0.0818ms)
+Completed 200 OK in 3ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:12:07 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3800ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3009ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$set"=>{"sent_to"=>["5172f5b0bb9ab437bc000002", "5172f5b0bb9ab437bc000002", "5172f5b0bb9ab437bc000002"]}} flags=[] (0.0858ms)
+Completed 200 OK in 3ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:12:09 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3343ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3300ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$set"=>{"sent_to"=>["5172f5b0bb9ab437bc000002", "5172f5b0bb9ab437bc000002", "5172f5b0bb9ab437bc000002", "5172f5b0bb9ab437bc000002"]}} flags=[] (0.0899ms)
+Completed 200 OK in 2ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:19:48 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.6709ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1779ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4172ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0849ms)
+Completed 200 OK in 25ms (Views: 0.4ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:19:51 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5791ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1779ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3002ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0749ms)
+Completed 200 OK in 4ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:19:53 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5410ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1731ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2151ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0718ms)
+Completed 200 OK in 3ms (Views: 0.3ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5600ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3500ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.4759ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$set"=>{"sent_to"=>[]}} flags=[] (0.1190ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:21:33 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5219ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1609ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4191ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0811ms)
+Completed 200 OK in 36ms (Views: 0.4ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:21:36 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3600ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2899ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0730ms)
+Completed 200 OK in 3ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:21:37 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5519ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1800ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2100ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0703ms)
+Completed 200 OK in 3ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:21:39 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5300ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1731ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2060ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0689ms)
+Completed 200 OK in 3ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:21:46 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.4869ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2031ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2289ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0703ms)
+Completed 200 OK in 3ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:21:48 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.4630ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1628ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2081ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0682ms)
+Completed 200 OK in 3ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:21:49 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.4809ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2000ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2270ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0708ms)
+Completed 200 OK in 3ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:21:49 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5209ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1819ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2141ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0720ms)
+Completed 200 OK in 3ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:33:56 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (34.7757ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2778ms)
+Completed 500 Internal Server Error in 53ms
+
+NameError - uninitialized constant Api::V1::GoalsController::Goals:
+  (gem) activesupport-3.2.12/lib/active_support/dependencies.rb:520:in `load_missing_constant'
+  (gem) activesupport-3.2.12/lib/active_support/dependencies.rb:192:in `block in const_missing'
+  (gem) activesupport-3.2.12/lib/active_support/dependencies.rb:190:in `const_missing'
+  app/controllers/api/v1/goals_controller.rb:18:in `index'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:167:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:10:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:414:in `_run__4385919975073065123__process_action__3826822957074786922__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `block in call'
+  (gem) mongoid-3.0.17/lib/mongoid/unit_of_work.rb:39:in `unit_of_work'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:35:in `block in call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:34:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__1154833063671156708__call__2395364553312222473__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:84:in `protected_app_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:79:in `better_errors_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+  (gem) quiet_assets-1.0.2/lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+  (gem) activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.5/lib/rack/lock.rb:15:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+  (gem) railties-3.2.12/lib/rails/engine.rb:479:in `call'
+  (gem) railties-3.2.12/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/70349269766560/variables" for 127.0.0.1 at 2013-04-20 23:33:56 +0200
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4342ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.4401ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.4280ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$or"=>[{"sent_to"=>"5172f5b0bb9ab437bc000002"}]} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4790ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$or"=>[{"sent_to"=>"5172f5b0bb9ab437bc000002"}]} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.9668ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$or"=>[{"sent_to"=>"5172f5b0bb9ab437bc000002"}]} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.5929ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$or"=>[{"sent_to"=>"5172f5b0bb9ab437bc000002"}]} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.6430ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$or"=>[{"sent_to"=>"5172f5b0bb9ab437bc000002"}]} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.7010ms)
+
+
+Started GET "/api/v1/sb_account/5172f5b0bb9ab437bc000002/goal/index/?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:42:07 +0200
+
+ActionController::RoutingError (No route matches [GET] "/api/v1/sb_account/5172f5b0bb9ab437bc000002/goal/index"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  quiet_assets (1.0.2) lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/api/v1/sb_account/5172f5b0bb9ab437bc000002/goal/index/?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:42:09 +0200
+
+ActionController::RoutingError (No route matches [GET] "/api/v1/sb_account/5172f5b0bb9ab437bc000002/goal/index"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  quiet_assets (1.0.2) lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/bers/.rvm/gems/ruby-1.9.3-p0/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:42:23 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.6690ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1919ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3431ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0830ms)
+Completed 200 OK in 26ms (Views: 0.4ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:42:27 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3431ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2718ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0782ms)
+Completed 200 OK in 3ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:42:29 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.4919ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1819ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2613ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0689ms)
+Completed 200 OK in 3ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:42:37 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5720ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3600ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3471ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0820ms)
+Completed 200 OK in 25ms (Views: 0.4ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:42:48 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5221ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1559ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3281ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0761ms)
+Completed 200 OK in 4ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-20 23:42:55 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5598ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1793ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4330ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"5172fd6cbb9ab437bc000006"} update={"$addToSet"=>{"sent_to"=>"5172f5b0bb9ab437bc000002"}} flags=[] (0.0801ms)
+Completed 200 OK in 25ms (Views: 0.4ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (29.1541ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=startupbox-server command={:dropDatabase=>1} (103.5731ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=sb_accounts documents=[{"_id"=>"51730f98bb9ab4a2e6000001"}] flags=[] (0.0951ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>nil} flags=[] limit=1 skip=0 fields={:_id=>1} (1622.9329ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"51730f9abb9ab4a2e6000002"}] flags=[] (0.1302ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>nil} flags=[] limit=1 skip=0 fields={:_id=>1} (60.8239ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>nil} flags=[] limit=1 skip=0 fields={:_id=>1} (0.4430ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=actions documents=[{"_id"=>"51730f9abb9ab4a2e6000003"}] flags=[] (0.0899ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (47.5080ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=startupbox-server command={:dropDatabase=>1} (4.3280ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=sb_accounts documents=[{"_id"=>"517316f4bb9ab4d8b6000001"}] flags=[] (0.1187ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>nil} flags=[] limit=1 skip=0 fields={:_id=>1} (975.9660ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"517316f5bb9ab4d8b6000002"}] flags=[] (0.1450ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>nil} flags=[] limit=1 skip=0 fields={:_id=>1} (0.4144ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>nil} flags=[] limit=1 skip=0 fields={:_id=>1} (0.5140ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=actions documents=[{"_id"=>"517316f5bb9ab4d8b6000003"}] flags=[] (0.0920ms)
+
+
+Started GET "/api/v1/sb_accounts/5172f5b0bb9ab437bc000002/goals?new=true&secret=5172f5b0bb9ab437bc000002" for 127.0.0.1 at 2013-04-21 00:47:06 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"5172f5b0bb9ab437bc000002", "sb_account_id"=>"5172f5b0bb9ab437bc000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.6030ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172f5b0bb9ab437bc000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1779ms)
+Completed 404 Not Found in 53ms
+
+Mongoid::Errors::DocumentNotFound - 
+Problem:
+  Document(s) not found for class SbAccount with id(s) 5172f5b0bb9ab437bc000002.
+Summary:
+  When calling SbAccount.find with an id or array of ids, each parameter must match a document in the database or this error will be raised. The search was for the id(s): 5172f5b0bb9ab437bc000002 ... (1 total) and the following ids were not found: 5172f5b0bb9ab437bc000002.
+Resolution:
+  Search for an id that is in the database or set the Mongoid.raise_not_found_error configuration option to false, which will cause a nil to be returned instead of raising this error when searching for a single id, or only the matched documents when searching for multiples.:
+  (gem) mongoid-3.0.17/lib/mongoid/errors/document_not_found.rb:39:in `initialize'
+  (gem) mongoid-3.0.17/lib/mongoid/criteria.rb:585:in `check_for_missing_documents!'
+  (gem) mongoid-3.0.17/lib/mongoid/criteria.rb:179:in `execute_or_raise'
+  (gem) mongoid-3.0.17/lib/mongoid/criteria.rb:245:in `find'
+  (gem) mongoid-3.0.17/lib/mongoid/finders.rb:61:in `find'
+  app/controllers/api/v1/goals_controller.rb:13:in `index'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:167:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rendering.rb:10:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:414:in `_run__4385919975073065123__process_action__3826822957074786922__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  (gem) activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  (gem) actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+  (gem) actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `block in call'
+  (gem) mongoid-3.0.17/lib/mongoid/unit_of_work.rb:39:in `unit_of_work'
+  (gem) mongoid-3.0.17/lib/rack/mongoid/middleware/identity_map.rb:34:in `call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:35:in `block in call'
+  (gem) warden-1.2.1/lib/warden/manager.rb:34:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__1154833063671156708__call__2395364553312222473__callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  (gem) activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:84:in `protected_app_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:79:in `better_errors_call'
+  (gem) better_errors-0.8.0/lib/better_errors/middleware.rb:56:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+  (gem) activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+  (gem) railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+  (gem) quiet_assets-1.0.2/lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+  (gem) activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.5/lib/rack/lock.rb:15:in `call'
+  (gem) actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+  (gem) railties-3.2.12/lib/rails/engine.rb:479:in `call'
+  (gem) railties-3.2.12/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+  (gem) railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/bers/.rvm/rubies/ruby-1.9.3-p0/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/70349297097380/variables" for 127.0.0.1 at 2013-04-21 00:47:06 +0200
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (29.3140ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=startupbox-server command={:dropDatabase=>1} (18.0290ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=users documents=[{"_id"=>"51731c6abb9ab42f17000001"}] flags=[] (0.1061ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=sb_accounts documents=[{"_id"=>"51731c6abb9ab42f17000002"}] flags=[] (0.1261ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=users selector={"$query"=>{"_id"=>"51731c6abb9ab42f17000001"}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (1000.8860ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=sb_accounts selector={"_id"=>"51731c6abb9ab42f17000002"} update={"$set"=>{"user_id"=>"51731c6abb9ab42f17000001"}} flags=[] (0.1321ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>"ciao1"} flags=[] limit=1 skip=0 fields={:_id=>1} (0.5450ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"51731c6bbb9ab42f17000003", "secret_key"=>"ciao1"}] flags=[] (0.1459ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>"ciao2"} flags=[] limit=1 skip=0 fields={:_id=>1} (0.4048ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"51731c6bbb9ab42f17000004", "secret_key"=>"ciao2"}] flags=[] (0.0811ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>"ciao3"} flags=[] limit=1 skip=0 fields={:_id=>1} (0.3431ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"51731c6bbb9ab42f17000005", "secret_key"=>"ciao3"}] flags=[] (0.0710ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=actions documents=[{"_id"=>"51731c6bbb9ab42f17000006"}] flags=[] (0.1538ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=goals documents=[{"_id"=>"51731c6bbb9ab42f17000007", "sent_to"=>[], "reached"=>true, "sb_account_id"=>"51731c6abb9ab42f17000002"}] flags=[] (0.1361ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$query"=>{"_id"=>"51731c6bbb9ab42f17000007"}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.4003ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=actions selector={"_id"=>"51731c6bbb9ab42f17000006"} update={"$set"=>{"goal_id"=>"51731c6bbb9ab42f17000007"}} flags=[] (0.1328ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.7851ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1891ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4160ms)
+
+
+Started GET "/api/v1/sb_accounts/51731c6abb9ab42f17000002/goals?new=true&secret=ciao2" for 127.0.0.1 at 2013-04-21 00:54:39 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao2", "sb_account_id"=>"51731c6abb9ab42f17000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5372ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731c6abb9ab42f17000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1884ms)
+Completed 200 OK in 3ms (Views: 0.1ms)
+
+
+Started GET "/api/v1/sb_accounts/51731c6abb9ab42f17000002/goals?new=true&secret=ciao2" for 127.0.0.1 at 2013-04-21 00:54:50 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao2", "sb_account_id"=>"51731c6abb9ab42f17000002"}
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731c6abb9ab42f17000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3200ms)
+Completed 200 OK in 1ms (Views: 0.1ms)
+
+
+Started GET "/api/v1/sb_accounts/51731c6abb9ab42f17000002/goals?new=true&secret=ciao2" for 127.0.0.1 at 2013-04-21 00:54:54 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao2", "sb_account_id"=>"51731c6abb9ab42f17000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5391ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731c6abb9ab42f17000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1853ms)
+Completed 200 OK in 2ms (Views: 0.1ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4342ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (28.9941ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=startupbox-server command={:dropDatabase=>1} (19.1190ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=users documents=[{"_id"=>"51731cedbb9ab4d2e7000001"}] flags=[] (0.1168ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=sb_accounts documents=[{"_id"=>"51731cedbb9ab4d2e7000002"}] flags=[] (0.1411ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=users selector={"$query"=>{"_id"=>"51731cedbb9ab4d2e7000001"}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (1338.2881ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=sb_accounts selector={"_id"=>"51731cedbb9ab4d2e7000002"} update={"$set"=>{"user_id"=>"51731cedbb9ab4d2e7000001"}} flags=[] (0.1390ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>"ciao1"} flags=[] limit=1 skip=0 fields={:_id=>1} (0.5853ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"51731ceebb9ab4d2e7000003", "secret_key"=>"ciao1"}] flags=[] (0.1299ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>"ciao2"} flags=[] limit=1 skip=0 fields={:_id=>1} (0.4048ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"51731ceebb9ab4d2e7000004", "secret_key"=>"ciao2"}] flags=[] (0.0908ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>"ciao3"} flags=[] limit=1 skip=0 fields={:_id=>1} (0.3128ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"51731ceebb9ab4d2e7000005", "secret_key"=>"ciao3"}] flags=[] (0.0887ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=actions documents=[{"_id"=>"51731ceebb9ab4d2e7000006"}] flags=[] (0.1390ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=goals documents=[{"_id"=>"51731ceebb9ab4d2e7000007", "sent_to"=>[], "reached"=>true, "sb_account_id"=>"51731cedbb9ab4d2e7000002"}] flags=[] (0.1380ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$query"=>{"_id"=>"51731ceebb9ab4d2e7000007"}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.4013ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=actions selector={"_id"=>"51731ceebb9ab4d2e7000006"} update={"$set"=>{"goal_id"=>"51731ceebb9ab4d2e7000007"}} flags=[] (0.1340ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"$query"=>{"_id"=>"51731cedbb9ab4d2e7000002"}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.3889ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.5710ms)
+
+
+Started GET "/api/v1/sb_accounts/51731cedbb9ab4d2e7000002/goals?new=true&secret=ciao2" for 127.0.0.1 at 2013-04-21 00:55:57 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao2", "sb_account_id"=>"51731cedbb9ab4d2e7000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.4711ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731cedbb9ab4d2e7000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1848ms)
+Completed 200 OK in 2ms (Views: 0.1ms)
+
+
+Started GET "/api/v1/sb_accounts/51731cedbb9ab4d2e7000002/goals?new=true&secret=ciao2" for 127.0.0.1 at 2013-04-21 00:55:59 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao2", "sb_account_id"=>"51731cedbb9ab4d2e7000002"}
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731cedbb9ab4d2e7000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2799ms)
+Completed 200 OK in 1ms (Views: 0.1ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (29.1159ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=startupbox-server command={:dropDatabase=>1} (17.9331ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=users documents=[{"_id"=>"51731d35bb9ab45f27000001"}] flags=[] (0.1049ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=sb_accounts documents=[{"_id"=>"51731d35bb9ab45f27000002"}] flags=[] (0.1197ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=users selector={"$query"=>{"_id"=>"51731d35bb9ab45f27000001"}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (1014.0169ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d35bb9ab45f27000002"} update={"$set"=>{"user_id"=>"51731d35bb9ab45f27000001"}} flags=[] (0.1359ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>"ciao1"} flags=[] limit=1 skip=0 fields={:_id=>1} (0.4539ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"51731d36bb9ab45f27000003", "secret_key"=>"ciao1"}] flags=[] (0.1249ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>"ciao2"} flags=[] limit=1 skip=0 fields={:_id=>1} (0.3960ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"51731d36bb9ab45f27000004", "secret_key"=>"ciao2"}] flags=[] (0.0801ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>"ciao3"} flags=[] limit=1 skip=0 fields={:_id=>1} (0.3228ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"51731d36bb9ab45f27000005", "secret_key"=>"ciao3"}] flags=[] (0.0811ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=actions documents=[{"_id"=>"51731d36bb9ab45f27000006"}] flags=[] (0.1662ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=goals documents=[{"_id"=>"51731d36bb9ab45f27000007", "sent_to"=>[], "reached"=>true, "sb_account_id"=>"51731d35bb9ab45f27000002"}] flags=[] (0.1361ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$query"=>{"_id"=>"51731d36bb9ab45f27000007"}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.3951ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=actions selector={"_id"=>"51731d36bb9ab45f27000006"} update={"$set"=>{"goal_id"=>"51731d36bb9ab45f27000007"}} flags=[] (0.1228ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4287ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (27.7441ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=startupbox-server command={:dropDatabase=>1} (27.0352ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=users documents=[{"_id"=>"51731d4abb9ab460f4000001"}] flags=[] (0.1061ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=sb_accounts documents=[{"_id"=>"51731d4abb9ab460f4000002"}] flags=[] (0.0951ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=users selector={"$query"=>{"_id"=>"51731d4abb9ab460f4000001"}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (976.7790ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} update={"$set"=>{"user_id"=>"51731d4abb9ab460f4000001"}} flags=[] (0.1342ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>"ciao1"} flags=[] limit=1 skip=0 fields={:_id=>1} (0.5128ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"51731d4bbb9ab460f4000003", "secret_key"=>"ciao1"}] flags=[] (0.1340ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>"ciao2"} flags=[] limit=1 skip=0 fields={:_id=>1} (0.3698ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"51731d4bbb9ab460f4000004", "secret_key"=>"ciao2"}] flags=[] (0.0820ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=devices selector={"secret_key"=>"ciao3"} flags=[] limit=1 skip=0 fields={:_id=>1} (0.3629ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=devices documents=[{"_id"=>"51731d4bbb9ab460f4000005", "secret_key"=>"ciao3"}] flags=[] (0.0839ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=actions documents=[{"_id"=>"51731d4bbb9ab460f4000006"}] flags=[] (0.1571ms)
+  MOPED: 127.0.0.1:27017 INSERT       database=startupbox-server collection=goals documents=[{"_id"=>"51731d4bbb9ab460f4000007", "sent_to"=>[], "reached"=>true, "sb_account_id"=>"51731d4abb9ab460f4000002"}] flags=[] (0.1340ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$query"=>{"_id"=>"51731d4bbb9ab460f4000007"}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.4017ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=actions selector={"_id"=>"51731d4bbb9ab460f4000006"} update={"$set"=>{"goal_id"=>"51731d4bbb9ab460f4000007"}} flags=[] (0.1240ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"$query"=>{"_id"=>"51731d4abb9ab460f4000002"}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.3550ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3901ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao2" for 127.0.0.1 at 2013-04-21 00:57:26 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao2", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5271ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2940ms)
+Completed 200 OK in 2ms (Views: 0.1ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"5172fd6cbb9ab437bc000006"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.6583ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.6390ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4659ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao2" for 127.0.0.1 at 2013-04-21 00:59:05 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao2", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5219ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1860ms)
+Completed 200 OK in 2ms (Views: 0.1ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao2" for 127.0.0.1 at 2013-04-21 01:01:48 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao2", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.7579ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2141ms)
+Completed 200 OK in 14ms (Views: 0.1ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao1" for 127.0.0.1 at 2013-04-21 01:01:52 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao1", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5069ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1800ms)
+Completed 200 OK in 2ms (Views: 0.1ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.4623ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3309ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"$query"=>{}, "$orderby"=>{:_id=>1}} flags=[:slave_ok] limit=-1 skip=0 fields=nil (0.5949ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao1" for 127.0.0.1 at 2013-04-21 01:04:35 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao1", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.4900ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2072ms)
+Completed 200 OK in 2ms (Views: 0.1ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao1" for 127.0.0.1 at 2013-04-21 01:04:37 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao1", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5000ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1619ms)
+Completed 200 OK in 2ms (Views: 0.1ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"51731d4bbb9ab460f4000007"} update={"$set"=>{"reached"=>false}} flags=[] (0.1380ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao1" for 127.0.0.1 at 2013-04-21 01:04:42 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao1", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.4811ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2241ms)
+Completed 200 OK in 2ms (Views: 0.1ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao1" for 127.0.0.1 at 2013-04-21 01:04:44 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao1", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.4799ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2599ms)
+Completed 200 OK in 2ms (Views: 0.1ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao1" for 127.0.0.1 at 2013-04-21 01:05:02 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao1", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5002ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.1662ms)
+Completed 200 OK in 2ms (Views: 0.1ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao1" for 127.0.0.1 at 2013-04-21 01:06:28 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao1", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.8249ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2391ms)
+Completed 200 OK in 53ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao1" for 127.0.0.1 at 2013-04-21 01:06:42 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao1", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.6382ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2759ms)
+Completed 200 OK in 3ms (Views: 0.2ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao1" for 127.0.0.1 at 2013-04-21 01:07:04 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao1", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.8321ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3419ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=startupbox-server command={:count=>"goals", :query=>{"sb_account_id"=>"51731d4abb9ab460f4000002"}} (0.4721ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=startupbox-server command={:count=>"goals", :query=>{"sb_account_id"=>"51731d4abb9ab460f4000002"}} (0.2151ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"51731d4bbb9ab460f4000007"} update={"$set"=>{"reached"=>true}} flags=[] (0.1709ms)
+Completed 200 OK in 91408ms (Views: 0.3ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao1" for 127.0.0.1 at 2013-04-21 01:08:35 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao1", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.6390ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2513ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"51731d4abb9ab460f4000002", "reached"=>true} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4830ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"51731d4bbb9ab460f4000007"} update={"$addToSet"=>{"sent_to"=>"ciao1"}} flags=[] (0.1721ms)
+Completed 200 OK in 13811ms (Views: 0.8ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao1" for 127.0.0.1 at 2013-04-21 01:09:02 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao1", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.8149ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2570ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"51731d4abb9ab460f4000002", "reached"=>true} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.5381ms)
+Completed 200 OK in 12408ms (Views: 0.2ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao1" for 127.0.0.1 at 2013-04-21 01:09:18 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao1", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4711ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"51731d4abb9ab460f4000002", "reached"=>true} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4160ms)
+Completed 200 OK in 3ms (Views: 0.1ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao1" for 127.0.0.1 at 2013-04-21 01:09:20 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao1", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.5989ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2451ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"51731d4abb9ab460f4000002", "reached"=>true} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4408ms)
+Completed 200 OK in 4ms (Views: 0.1ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao1" for 127.0.0.1 at 2013-04-21 01:09:31 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao1", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.7801ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.2356ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"51731d4abb9ab460f4000002", "reached"=>true} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4060ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.4590ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4218ms)
+Completed 200 OK in 89445ms (Views: 0.2ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao2" for 127.0.0.1 at 2013-04-21 01:11:05 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao2", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (0.6421ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.3440ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"51731d4abb9ab460f4000002", "reached"=>true} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4718ms)
+  MOPED: 127.0.0.1:27017 UPDATE       database=startupbox-server collection=goals selector={"_id"=>"51731d4bbb9ab460f4000007"} update={"$addToSet"=>{"sent_to"=>"ciao2"}} flags=[] (0.1512ms)
+Completed 200 OK in 19ms (Views: 0.8ms)
+
+
+Started GET "/api/v1/sb_accounts/51731d4abb9ab460f4000002/goals?new=true&secret=ciao2" for 127.0.0.1 at 2013-04-21 01:11:08 +0200
+Processing by Api::V1::GoalsController#index as HTML
+  Parameters: {"new"=>"true", "secret"=>"ciao2", "sb_account_id"=>"51731d4abb9ab460f4000002"}
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=sb_accounts selector={"_id"=>"51731d4abb9ab460f4000002"} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4890ms)
+  MOPED: 127.0.0.1:27017 QUERY        database=startupbox-server collection=goals selector={"sb_account_id"=>"51731d4abb9ab460f4000002", "reached"=>true} flags=[:slave_ok] limit=0 skip=0 fields=nil (0.4561ms)
+Completed 200 OK in 3ms (Views: 0.1ms)
