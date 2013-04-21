@@ -7,8 +7,9 @@ StartupboxServer::Application.routes.draw do
 
         end
       end
-      resources :events do
-        member do
+      resources :sb_accounts do
+        resources :events do
+
 
         end
       end

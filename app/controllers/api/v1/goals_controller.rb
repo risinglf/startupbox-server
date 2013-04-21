@@ -1,12 +1,5 @@
 class Api::V1::GoalsController < ApplicationController
 
-  # POST /api/v1/goal/get_new/
-  def get_new
-    # devo trovare il device
-    # Device.find
-    Goal.where(reached: true)
-  end
-
   # GET /api/v1/goal ?new=true&secret=1
   def index
     p params
@@ -19,10 +12,10 @@ class Api::V1::GoalsController < ApplicationController
       end
     end
     result.each do |goal|
-      goal.add_to_set(:sent_to, params[:secret])
-      goal.save
+      #goal.add_to_set(:sent_to, params[:secret])
+      #goal.save
     end
-    render json: result
+    render json: result.map{ |goal| goal.actions }.flatten
   end
 
   # GET /api/v1/goal/:id

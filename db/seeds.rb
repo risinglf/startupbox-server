@@ -16,6 +16,7 @@ dev2 = Device.create(secret_key: "ciao2")
 dev3 = Device.create(secret_key: "ciao3")
 
 action1 = Action.create
+action1.test "traguardo raggiunto"
 
 goal1 = Goal.create(sb_account: sb_account, reached: true)
 goal1.actions << action1
